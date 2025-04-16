@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-
-
 
 - 🔭 I’m currently working on to enhence my coding skills. <br>
 - 👯 I’m looking to collaborate on a minor project on full stack development.<br>
